@@ -25,7 +25,7 @@
         <maven.compiler.target>8</maven.compiler.target>
 
         <htmlunitdriver.version>2.50.0</htmlunitdriver.version>
-        <htmlunitcssparser.version>1.7.0</htmlunitcssparser.version>
+        <htmlunitcssparser.version>1.14.0</htmlunitcssparser.version>
         <htmlunitneko.version>2.50.0</htmlunitneko.version>
         <htmlunitcorejs.version>2.50.0</htmlunitcorejs.version>
 
@@ -236,7 +236,7 @@
                                 <requireJavaVersion>
                                     <version>1.8.0</version>
                                 </requireJavaVersion>
-                                <dependencyConvergence />
+                                <dependencyConvergence/>
                             </rules>
                         </configuration>
                         <goals>
@@ -1094,7 +1094,7 @@
             <name>Adam Afeltowicz</name>
         </contributor>
         <contributor>
-            <name>Madis P&#x00e4;rn</name>
+            <name>Madis Pärn</name>
         </contributor>
         <contributor>
             <name>Michael Rimov</name>
