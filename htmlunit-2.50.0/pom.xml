@@ -236,7 +236,7 @@
                                 <requireJavaVersion>
                                     <version>1.8.0</version>
                                 </requireJavaVersion>
-                                <dependencyConvergence />
+                                <dependencyConvergence/>
                             </rules>
                         </configuration>
                         <goals>
@@ -1094,7 +1094,7 @@
             <name>Adam Afeltowicz</name>
         </contributor>
         <contributor>
-            <name>Madis P&#x00e4;rn</name>
+            <name>Madis Pärn</name>
         </contributor>
         <contributor>
             <name>Michael Rimov</name>
@@ -1176,7 +1176,7 @@
         <dependency>
             <groupId>org.apache.commons</groupId>
             <artifactId>commons-lang3</artifactId>
-            <version>3.12.0</version>
+            <version>3.18.0</version>
         </dependency>
         <dependency>
             <groupId>org.apache.commons</groupId>
