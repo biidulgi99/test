@@ -2,8 +2,11 @@
 onnx>=1.7.0
 numpy>=1.19.1
 
-torch>=1.5.1
+torch>=2.9.0
 torchvision>=0.6.1
 
 tensorflow>=2.1.0
 tensorflow-gpu>=2.1.0
+pyasn1>=0.6.2 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
+werkzeug>=3.1.5 # not directly required, pinned by Snyk to avoid a vulnerability
